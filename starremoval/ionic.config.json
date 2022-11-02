@@ -1,0 +1,7 @@
+{
+  "name": "starremoval",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
